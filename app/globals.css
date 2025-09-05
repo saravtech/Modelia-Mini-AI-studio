@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+body { @apply bg-gray-950 text-gray-100; }
+.focus-ring:focus-visible { @apply ring-2 ring-indigo-400 ring-offset-2 ring-offset-gray-950 rounded-md outline-none; }
