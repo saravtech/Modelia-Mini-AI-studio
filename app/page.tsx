@@ -40,7 +40,7 @@ export default function Page() {
       <main className="mx-auto max-w-5xl p-4 sm:p-8 space-y-6">
         <header className="flex items-center justify-between">
           <h1 className="text-xl sm:text-2xl font-semibold">Modelia – Mini AI Studio (Next.js)</h1>
-          <a className="focus-ring rounded-md px-3 py-1 bg-gray-900" href="https://github.com/" target="_blank" rel="noreferrer">Repo</a>
+          <a className="focus-ring rounded-md px-3 py-1 bg-gray-900" href="https://github.com/saravtech/Modelia-Mini-AI-studio" target="_blank" rel="noreferrer">Repo</a>
         </header>
 
         <section aria-labelledby="uploader" className="grid gap-6 sm:grid-cols-2">
